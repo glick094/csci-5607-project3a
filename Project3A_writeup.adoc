@@ -467,7 +467,7 @@ image:ShowcaseScenes/art_contest/pokeball_components.png[pokeballComponents, 800
 
 You can see the red part has three spheres (the darkest is the first sphere, the lighter two are the ones that are subtracted). The first subtraction creates the "semi-sphere" that has a concave portion on the inside. The second subtraction creates the circular cutout on the front of the pokeball. 
 
-The red and white parts of the pokeball are constructed exactly the same, just inverted. Then the button band (outer ring) is constructed with three spheres (shown directly below the expanded white part), where the white part remains. Finally, the button face is created with the intersection of two spheres (shown float on the far left side of the screen). 
+The red and white parts of the pokehttps://glick094.github.io/csci-5607-project3a/ball are constructed exactly the same, just inverted. Then the button band (outer ring) is constructed with three spheres (shown directly below the expanded white part), where the white part remains. Finally, the button face is created with the intersection of two spheres (shown float on the far left side of the screen). 
 
 .Art Submission
 image:ShowcaseScenes/art_contest/pokeball.png[pokeball, 1200, 900]
@@ -476,4 +476,4 @@ To create my submission, I followed the building procedure described above to cr
 
 == Access source code
 
-You can access the source code here: https://drive.google.com/file/d/1S-Kxt4JVoTKRTEvjADSvf26lNrgBYpv7/view?usp=sharing, which was compiled on a linux machine. 
+You can access the source code here: https://drive.google.com/file/d/1UoT6XWY2UUiI1zJPu4MOEURKnMn7hWi1/view?usp=sharing, which was compiled on a linux machine. 
